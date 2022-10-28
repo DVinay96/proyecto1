@@ -113,3 +113,24 @@ h2{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+#store{
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+h3{
+  background-color: rgb(2, 61, 2) ;
+  display: flex;
+  justify-content: center;
+}
+
+#store1{
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+ 
+}
+
