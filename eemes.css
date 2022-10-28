@@ -114,6 +114,11 @@ h2{
   to {opacity: 1}
 }
 
+.slideshowimage { 
+  width: 925px;
+  height: 550px;
+}
+
 
 #store{
 display: flex;
@@ -128,9 +133,9 @@ h3{
 }
 
 #store1{
-  max-width: 1000px;
+  width: 500px;
+  height: 600px;
   position: relative;
   margin: auto;
- 
 }
 
